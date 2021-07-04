@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Snow Zhong, welcome to my GitHub Profile. I am a lover of [Arch Linux](https://archlinux.org) and [i3wm](https://i3wm.org), and like to solve the problems around me by writing programs. In addition to using arch on my [main workstation](https://github.com/YukinaMochizuki/arch-linux-on-7559), I also use [Regolith](https://regolith-linux.org) on other computers.
+I'm Snow Zhong, welcome to my GitHub Profile. I am a lover of [Arch Linux](https://archlinux.org) and [i3wm](https://i3wm.org), and like to solve the problems around me by writing programs. In addition to using Arch on my [main workstation](https://github.com/YukinaMochizuki/arch-linux-on-7559), I also use [Regolith](https://regolith-linux.org) on other computers.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YukinaMochizuki&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
 
@@ -44,7 +44,8 @@ I'm Snow Zhong, welcome to my GitHub Profile. I am a lover of [Arch Linux](https
 2. Tailwind CSS - [Simple-Social-App](https://github.com/YukinaMochizuki/Simple-Social-App) also used Tailwind CSS for building page 
 
 ### 🤔 Other information about me
-- []()
+- [About me - Chinese version on HackMD](https://hackmd.io/kJ0P_xdzQGuv-kQlE5W7Hw)
+- [Stack Overflow Profile](https://stackoverflow.com/users/8407562/yukina)
 
 
 <!--
