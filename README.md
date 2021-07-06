@@ -46,8 +46,8 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 2. Tailwind CSS - [Simple-Social-App](https://github.com/YukinaMochizuki/Simple-Social-App) also used Tailwind CSS for building page 
 
 ### 🤔 Other information about me
+- [StackOverflow Profile](https://stackoverflow.com/users/8407562/yukina)
 - [About me - Chinese version on HackMD](https://hackmd.io/@YukinaMochizuki/My-Profile)
-- [Stack Overflow Profile](https://stackoverflow.com/users/8407562/yukina)
 
 
 <!--
