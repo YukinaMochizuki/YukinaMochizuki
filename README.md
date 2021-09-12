@@ -25,7 +25,7 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 
 #### Language
 1. Java - ❤️
-2. Javascript
+2. JavaScript / TypeScript
 3. Python
 
 #### Framework
