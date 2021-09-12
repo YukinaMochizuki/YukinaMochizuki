@@ -36,7 +36,7 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 
 #### Tools and other
 1. Docker
-2. GitLab-CI
+2. GitLab CI/CD
 3. RouterOS
 4. Proxmox VE
 5. FreeNAS (Now is TrueNAS CORE)
