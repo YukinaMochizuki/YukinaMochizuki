@@ -13,7 +13,7 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 - [YukinaMochizuki/notion-sdk-java](https://github.com/YukinaMochizuki/notion-sdk-java) - Favorite
 - [YukinaMochizuki/DCDos](https://github.com/YukinaMochizuki/DCDos) - Active, major side project
 - [YukinaMochizuki/agent](https://github.com/YukinaMochizuki/agent) - Active, medium priority
-- [YukinaMochizuki/issue-assistant](https://github.com/YukinaMochizuki/issue-assistant) - Forward-looking, for learning and experiment
+- [YukinaMochizuki/issue-assistant](https://github.com/YukinaMochizuki/issue-assistant) - For learning and experiment
 
 #### Other
 - [ocftw/accounting_assistant](https://github.com/ocftw/accounting_assistant)
