@@ -47,6 +47,7 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 
 ### 🤔 Other information about me
 - [StackOverflow Profile](https://stackoverflow.com/users/8407562/yukina)
+- [Resume - Chinese version](https://www.cakeresume.com/yukina0214)
 - [About me - Chinese version on HackMD](https://hackmd.io/@YukinaMochizuki/My-Profile)
 
 
