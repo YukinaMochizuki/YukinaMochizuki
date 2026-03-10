@@ -4,8 +4,6 @@ Welcome to my GitHub Profile :)
 
 I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https://i3wm.org). Like to solve the problems around me by writing programs. In addition to using Arch on my [main workstation](https://github.com/YukinaMochizuki/arch-linux-on-8200), I am also studying [NixOS](https://nixos.org) on my QEMU/KVM.
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=YukinaMochizuki&theme=dark&show_icons=true">](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🔭 I’m currently working on ...
 
@@ -21,12 +19,12 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 - [YukinaMochizuki/CMSOFramework](https://github.com/YukinaMochizuki/CMSOFramework) - Archived
 
 ### 🔥 My skills or experience ...
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukinaMochizuki&layout=compact&theme=dark">](https://github.com/anuraghazra/github-readme-stats)
 
 #### Language
 1. Java - ❤️
-2. JavaScript / TypeScript
-3. Python
+2. Golang
+3. JavaScript / TypeScript
+4. Python
 
 #### Framework
 1. Spring Framework - ❤️
