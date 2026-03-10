@@ -45,11 +45,10 @@ I'm Snow Zhong, a lover of [Arch Linux](https://archlinux.org) and [i3wm](https:
 
 ### 🤔 Other information about me
 - [StackOverflow Profile](https://stackoverflow.com/users/8407562/yukina)
+<!--
 - [Resume - Chinese version](https://www.cake.me/yukina0214)
 - [About me - Chinese version on HackMD](https://hackmd.io/@YukinaMochizuki/My-Profile)
 
-
-<!--
 **YukinaMochizuki/YukinaMochizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
